@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/navodachathurya/navodachathurya/main/pic/Profile.jpg&w=260&h=260&fit=cover&mask=circle&output=png" width="200" alt="Navoda Chathurya" />
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/navodachathurya/navodachathurya/main/Profile.jpg&w=260&h=260&fit=cover&mask=circle&output=png" width="200" alt="Navoda Chathurya" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=navodachathurya&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </div>
