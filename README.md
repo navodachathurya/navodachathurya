@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Navoda%20Chathurya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20%7C%20Neural%20Networks%20%7C%20Full%20Stack&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=timeGradient&section=header&reversal=true&text=Navoda+Chathurya&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=Building+intelligent+systems+%7C+Neural+Networks+%7C+Full+Stack&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header" />
 </div>
 
 <div align="center">
